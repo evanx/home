@@ -1,7 +1,7 @@
 
 # evanx
 
-Locality: Eynsham, Oxfordshire, United Kingdom 
+Residence: Oxfordshire, United Kingdom 
 
 Occupation: Principal Software Engineer at https://Dotter.me (Chancery Lane, London)
 
